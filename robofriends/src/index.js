@@ -13,7 +13,7 @@ ReactDOM.render(
         <Card id={robots[2].id} name={robots[2].name} email={robots[2].email} />
 
     </div>
-, document.getElementById('root'));
+, document.getElementById('root '));
 
 
 
