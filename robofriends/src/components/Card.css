@@ -1,0 +1,10 @@
+#div2{
+  padding:50px;
+  display: flex;
+  flex-direction: column;
+}
+
+.adjustxt{
+  text-transform: uppercase;
+  align-items: baseline;
+}
