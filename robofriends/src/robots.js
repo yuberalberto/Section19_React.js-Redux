@@ -18,6 +18,12 @@ export const robots = [
     email: 'Nathan@yesenia.net'
   },
   {
+    id: 11,
+    name: 'Heriberto Alexander Jimenez',
+    username: 'Moriah.Stanton',
+    email: 'Rey.Padberg@karina.biz'
+  },
+  {
     id: 4,
     name: 'Patricia Lebsack',
     username: 'Karianne',
@@ -56,6 +62,12 @@ export const robots = [
   {
     id: 10,
     name: 'Clementina DuBuque',
+    username: 'Moriah.Stanton',
+    email: 'Rey.Padberg@karina.biz'
+  },
+  {
+    id: 12,
+    name: 'Alexei Smirnov',
     username: 'Moriah.Stanton',
     email: 'Rey.Padberg@karina.biz'
   }
